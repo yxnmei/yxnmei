@@ -1,7 +1,7 @@
 ## Hi I'm Yan Mei 👋
 Currently slogging my way through CS.
 
-- 🌱 I love UI/UX design, and i currently work on freelance projects. HMU if youre interested in redesigning your websites/ webapps/ mobile apps!
+- 🌱 I love UI/UX design, and im currently work on freelance projects. HMU if youre interested in redesigning your websites/ webapps/ mobile apps!
 
 
 # 💻 Some stuff I use:
